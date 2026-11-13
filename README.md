@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm Sebastian, I work for Unity North Atlanta as their A/V Technician Lead in Marrietta GA   
 
-<!--
-**Metabear333/Metabear333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I look for ways to improve our teams work flow and minimize pain points in production. 
 
-Here are some ideas to get you started:
+- 📫 How to reach me: My business Email is: Seabassthebear@outlook.com
+- 
+- 😄 Pronouns: He/They
+- 
+Fun Facts:
+I dabble in music, african percussion, and sound therapy.
+I love exotic fruit.
+I like green & white teas.
+Hobbies: Anime, gym, learning, video games/emulation, and photography.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
