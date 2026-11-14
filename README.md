@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sebastian, I work for Unity North Atlanta as their A/V Technician Lead in Marrietta GA   
+I'm Sebastian, I work for Unity North Atlanta as their A/V Technician Lead in Marietta GA   
 
 I look for ways to improve our teams work flow and minimize pain points in production. 
 
@@ -9,6 +9,6 @@ I look for ways to improve our teams work flow and minimize pain points in produ
 I dabble in music, african percussion, and sound therapy.
 I love exotic fruit.
 I like green & white teas.
-Hobbies: Anime, gym, learning, video games/emulation, and photography.   
+Hobbies: Nature, aesthetics like Solarpunk, gen x Softclub, and frutiger Aero. Anime, gym, learning random things, video games/emulation, and photography.   
 
 -->
